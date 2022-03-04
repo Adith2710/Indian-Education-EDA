@@ -11,4 +11,8 @@ Here are some insightful plots made using the data (code for the plots are in th
 ![image](https://user-images.githubusercontent.com/63020303/156697431-2810a9c4-d207-45f0-94eb-4611718c0fa1.png)
 
 
+
+![image](https://user-images.githubusercontent.com/63020303/156697575-6b5355ed-4da2-4519-b130-97f782e1ef61.png)
+
+
 ![image](https://user-images.githubusercontent.com/63020303/156697540-2e9ff0eb-991b-4c0c-be88-385d2dbb978f.png)
